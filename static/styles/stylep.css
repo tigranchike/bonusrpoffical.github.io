@@ -1,0 +1,59 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+body {
+    background: url('https://furman.top/uploads/posts/2022-07/1656848726_11-furman-top-p-gta-san-oboi-krasivo-11.jpg') no-repeat;
+}
+
+
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    font-style: italic;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin-left: -10%;
+    margin-top: 59px;
+    color: aquamarine;
+    font-style: italic;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+
+.p1 {
+    color: aquamarine;
+  
+}
+
+.ol1 {
+    color: aquamarine;
+}
+
+h3 {
+    color: aquamarine;
+}
+
+.p2 {
+    color: aquamarine;
+}
+
+a {
+    color: aqua;
+}
